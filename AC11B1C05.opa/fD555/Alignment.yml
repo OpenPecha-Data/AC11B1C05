@@ -1,0 +1,16 @@
+segment_sources:
+  I94468389:
+    type: origin_type
+    relation: translation
+    language: en
+  I0AB7F753:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5f3a16f0f35f4cecad4ec643603afe26:
+    I94468389: 47d88009972b4f71b97862252c41f9e4
+    I0AB7F753: 3d39b73ca0984fcea340e8e4abab5768
+  f5b023829d0b4911a34ab237b8d9f04a:
+    I94468389: 80d88ee7ab084ee680e145901adb6cf6
+    I0AB7F753: 8ae476c5290543a8ba90154b6aa3f775
